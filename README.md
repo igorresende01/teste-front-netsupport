@@ -6,7 +6,7 @@ Teste realizado na empresa NetSupport para vaga de Desenvolvedor Front - End.
 
 ### Clone o repositório
 ```
-  git clone https://github.com/igorresende01/teste-front-NetSupport
+  git clone https://github.com/igorresende01/teste-front-netsupport
   cd Teste_NetSupport
 ```
 
